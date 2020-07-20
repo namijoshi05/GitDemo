@@ -8,6 +8,9 @@ public class script1 {
 		
 		System.out.println("Hello There is an update3 in Git");
 		System.out.println("Hello There is an update4 in Git");
+		
+		System.out.println("Hello There is an update for branch only");
+		System.out.println("Hello There is an update4 for branch only");
 	}
 
 }
